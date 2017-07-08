@@ -4,9 +4,9 @@ Fatec - São José dos Campos
 
 Trabalho Prático para a disciplina - Programação Orientada a Objetos
 
-2. Implemente a hierarquia Shape mostrada na Figura 1.
-
 Figura 1: Diagrama de classes UML da hierarquia de herança para Shapes.
+
+2. Implemente a hierarquia Shape mostrada na Figura 1.
 
 1. Cada TwoDimensionalShape deve conter o método getArea para calcular a área da forma
 bidimensional.
